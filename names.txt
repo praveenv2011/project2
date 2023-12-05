@@ -2,14 +2,8 @@ praveen
 priya 
 pooja
 poojitha
-<<<<<<< HEAD
 pramila
-=======
-<<<<<<< HEAD
 pramila
-=======
 pravallika
->>>>>>> 5e3b3d9844c346503704bea142d0f8e6db330c5a
->>>>>>> 68c8c0c40f78710fe77a32d59f98381ca31cb2f6
 pramila
 jasmine
